@@ -1,9 +1,16 @@
 <h1>
- oii 🖖🏽 sou Guilherme araujo
+ olá🖖! eu sou Guilherme araujo  🛸
 </h1>      
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme1896)](https://github.com/guilherme1896/github-readme-stats)
+<h2> 🚀atualmente <br> <br>
+  💻 desenvolvedor web front end
+</h2>
 
+<div>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme1896&show)](https://github.com/guilherme1896/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme1896&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  
   <a href="https://www.instagram.com/guilherme__araujo011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
