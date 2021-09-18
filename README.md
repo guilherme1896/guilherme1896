@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guilherme1896=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **guilherme1896/guilherme1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
