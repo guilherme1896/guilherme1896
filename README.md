@@ -1,3 +1,7 @@
+<h1>
+ oii 🖖🏽 sou Guilherme araujo
+</h1>      
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme1896)](https://github.com/guilherme1896/github-readme-stats)
 
 
